@@ -156,7 +156,7 @@
         android:rowEdgeFlags="bottom">
         <Key
             android:codes="@integer/keycode_close_keyboard"
-            android:keyIcon="@drawable/ic_close_keyboard"
+            android:keyIcon="@drawable/ic_close_keyboard_tint"
             android:keyEdgeFlags="left" />
         <Key
             android:keyLabel="_"
