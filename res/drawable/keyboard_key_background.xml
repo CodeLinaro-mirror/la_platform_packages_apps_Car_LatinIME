@@ -7,5 +7,5 @@
             <corners android:radius="2dp" />
         </shape>
     </item>
-    <item android:drawable="@*android:color/car_keyboard_text_primary_color" />
+    <item android:drawable="@color/transparent_black" />
 </selector>
